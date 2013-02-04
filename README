@@ -1,0 +1,3 @@
+This program will automatic download a full-disk H-alpha solar image and then identify all filaments presentive on the solar disk. 
+
+The input is a date(optional), the output are a image with solar filaments boundaries marked and a text file record the latitude, longitude, centroid position and size of each filament.
